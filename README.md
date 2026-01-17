@@ -1,4 +1,4 @@
-\# Emotion HUD 🎭
+\# Emotion HUD 
 
 
 
